@@ -1,0 +1,289 @@
+[
+  {
+    "id": "khaadi",
+    "name": "Khaadi",
+    "origin": "local",
+    "country": "Pakistan",
+    "founded": "1998",
+    "headquarters": "Karachi",
+    "description": "Founded by Shamoon Sultan in Karachi, Khaadi began as a handwoven-fabric brand reviving traditional khadi weaving before expanding into ready-to-wear womenswear, menswear, kids' clothing and home textiles. It now operates dozens of stores across Pakistan and internationally.",
+    "categories": ["Women's", "Men's", "Kids", "Unstitched", "Ready-to-Wear", "Home Textiles"],
+    "materials": ["conventional-cotton", "handspun-cotton", "linen", "viscose", "poly-cotton-blend"],
+    "materialsNote": "Reflects materials typical of Khaadi's product categories (lawn, khaddar, linen, printed viscose) based on public product listings, not a full audit of every SKU's composition label.",
+    "sustainableMaterials": ["handspun-cotton"],
+    "certifications": [],
+    "sustainabilityClaims": [
+      { "claim": "Brand heritage is built around reviving handwoven khadi cotton weaving traditions.", "source": "https://en.wikipedia.org/wiki/Khaadi", "type": "documented" }
+    ],
+    "initiatives": [],
+    "website": "https://www.khaadi.com",
+    "sources": [
+      { "title": "Official website", "url": "https://www.khaadi.com" },
+      { "title": "Wikipedia — Khaadi", "url": "https://en.wikipedia.org/wiki/Khaadi" }
+    ],
+    "lastUpdated": "2026-09-23"
+  },
+  {
+    "id": "gul-ahmed",
+    "name": "Gul Ahmed (Ideas by Gul Ahmed)",
+    "origin": "local",
+    "country": "Pakistan",
+    "founded": "1953",
+    "headquarters": "Karachi",
+    "description": "One of Pakistan's oldest and largest vertically integrated textile companies, manufacturing yarn, fabric and finished garments. Its retail arm, Ideas by Gul Ahmed, sells apparel and home textiles through a nationwide store network.",
+    "categories": ["Women's", "Men's", "Kids", "Unstitched", "Home Textiles"],
+    "materials": ["conventional-cotton", "organic-cotton", "viscose", "poly-cotton-blend"],
+    "materialsNote": "Reflects materials typical of Gul Ahmed's product categories based on public product listings, not a full per-SKU composition audit.",
+    "sustainableMaterials": ["organic-cotton"],
+    "certifications": [],
+    "sustainabilityClaims": [
+      { "claim": "Company reports a wastewater treatment plant treating 100% of effluent to national environmental quality standards (NEQS).", "source": "https://www.devex.com/organizations/gul-ahmed-group-138603", "type": "brand-claim" },
+      { "claim": "Company reports solar (30 MW) and wind (17.5 MW) power installations alongside a battery energy storage system at its facilities.", "source": "https://gulfnews.com/gn-focus/pakistans-textile-leader-gul-ahmed-eyes-premium-markets-with-uae-expansion-1.500483224", "type": "brand-claim" }
+    ],
+    "initiatives": [],
+    "website": "https://www.gulahmedshop.com",
+    "sources": [
+      { "title": "Wikipedia — Gul Ahmed", "url": "https://en.wikipedia.org/wiki/Gul_Ahmed" },
+      { "title": "Gulf News — Gul Ahmed UAE expansion", "url": "https://gulfnews.com/gn-focus/pakistans-textile-leader-gul-ahmed-eyes-premium-markets-with-uae-expansion-1.500483224" }
+    ],
+    "lastUpdated": "2026-09-23"
+  },
+  {
+    "id": "sapphire",
+    "name": "Sapphire",
+    "origin": "local",
+    "country": "Pakistan",
+    "founded": "2014 (retail arm; parent Sapphire Textile Mills founded 1971)",
+    "headquarters": "Lahore",
+    "description": "The retail arm of Sapphire Textile Mills, one of Pakistan's largest vertically integrated textile manufacturers. Sapphire sells women's clothing, accessories and fragrances through stores across Pakistan and a growing international footprint.",
+    "categories": ["Women's", "Unstitched", "Ready-to-Wear", "Accessories"],
+    "materials": ["conventional-cotton", "viscose", "poly-cotton-blend", "linen"],
+    "materialsNote": "Reflects materials typical of Sapphire's product categories based on public product listings, not a full per-SKU composition audit.",
+    "sustainableMaterials": [],
+    "certifications": [],
+    "sustainabilityClaims": [],
+    "initiatives": [],
+    "website": "https://www.sapphireonline.pk",
+    "sources": [
+      { "title": "Wikipedia — Sapphire Retail", "url": "https://en.wikipedia.org/wiki/Sapphire_Retail" },
+      { "title": "Wikipedia — Sapphire (group)", "url": "https://en.wikipedia.org/wiki/Sapphire_(group)" }
+    ],
+    "lastUpdated": "2026-09-23"
+  },
+  {
+    "id": "j-junaid-jamshed",
+    "name": "J. (Junaid Jamshed)",
+    "origin": "local",
+    "country": "Pakistan",
+    "founded": "2002",
+    "headquarters": "Karachi",
+    "description": "Founded by musician and designer Junaid Jamshed in 2002 at a single Tariq Road store in Karachi, J. built its identity around reviving the shalwar kameez and modest fashion. It has since expanded to 100+ outlets in Pakistan and stores in the UK, Australia, Canada, New Zealand, UAE and Qatar.",
+    "categories": ["Men's", "Women's", "Kids", "Unstitched", "Formal Wear", "Perfumes & Accessories"],
+    "materials": ["conventional-cotton", "mulberry-silk"],
+    "materialsNote": "The brand's own product description states it works in \"silk, chiffon, cotton, cambric, lawn and fabrics that suit the season.\" Cambric and lawn are cotton weaves, mapped here to conventional cotton; silk is mapped to mulberry silk. Chiffon can be woven from silk, polyester or viscose and isn't specified further in available sources, so it is not mapped to a single fabric here.",
+    "sustainableMaterials": [],
+    "certifications": [],
+    "sustainabilityClaims": [],
+    "initiatives": [],
+    "website": "https://www.junaidjamshed.com",
+    "sources": [
+      { "title": "Brand description (via franchise storefront page)", "url": "https://fr.trustpilot.com/review/uk.junaidjamshed.com?page=4" },
+      { "title": "Brand history summary", "url": "https://steemit.steemapps.com/@suboohi/j-clothing-brand" }
+    ],
+    "lastUpdated": "2026-09-23"
+  },
+  {
+    "id": "bonanza-satrangi",
+    "name": "Bonanza Satrangi",
+    "origin": "local",
+    "country": "Pakistan",
+    "founded": "1976 (Satrangi women's line launched 2012)",
+    "headquarters": "Karachi",
+    "description": "A long-running ready-made garment manufacturer that began with winter knitwear in 1976. Bonanza covers men's formal and ethnic wear and knitwear, while its Satrangi line covers women's pret, unstitched fabric and accessories.",
+    "categories": ["Men's", "Women's", "Kids", "Unstitched", "Knitwear", "Formal Wear"],
+    "materials": ["conventional-cotton", "wool", "acrylic", "poly-cotton-blend"],
+    "materialsNote": "Reflects materials typical of Bonanza Satrangi's product categories (the brand began in ready-made knitwear) based on public product listings, not a full per-SKU composition audit.",
+    "sustainableMaterials": [],
+    "certifications": [],
+    "sustainabilityClaims": [],
+    "initiatives": [],
+    "website": "https://bonanzasatrangi.com",
+    "sources": [
+      { "title": "Company profile", "url": "https://a-leads.co/company/294902_776e782a" }
+    ],
+    "lastUpdated": "2026-09-23"
+  },
+  {
+    "id": "nishat-linen",
+    "name": "Nishat Linen",
+    "origin": "local",
+    "country": "Pakistan",
+    "founded": "1989",
+    "headquarters": "Lahore",
+    "description": "Set up under the Nishat Group as a home-furnishings export brand in 1989, diversifying into apparel by 1992. It sources raw textiles from its parent company, Nishat Mills, giving it vertically integrated control from yarn to retail.",
+    "categories": ["Women's", "Men's", "Unstitched", "Home Textiles"],
+    "materials": ["conventional-cotton", "linen", "mulberry-silk", "viscose"],
+    "materialsNote": "Reflects materials typical of Nishat Linen's product categories based on public reporting and product listings, not a full per-SKU composition audit.",
+    "sustainableMaterials": [],
+    "certifications": [],
+    "sustainabilityClaims": [],
+    "initiatives": [],
+    "website": "https://www.nishatlinen.com",
+    "sources": [
+      { "title": "Profit by Pakistan Today — Nishat Linen profile", "url": "https://profit.pakistantoday.com.pk/?p=1394" }
+    ],
+    "lastUpdated": "2026-09-23"
+  },
+  {
+    "id": "outfitters",
+    "name": "Outfitters",
+    "origin": "local",
+    "country": "Pakistan",
+    "founded": "2003",
+    "headquarters": "Lahore",
+    "description": "A Western-wear focused fast-fashion retailer founded by Kamran Khursheed, known for casual and formal menswear, plus its Ethnic and Outfitters Junior sub-brands for women's and children's clothing respectively.",
+    "categories": ["Men's", "Women's", "Kids", "Casual Wear", "Denim"],
+    "materials": ["conventional-cotton", "poly-cotton-blend", "polyester", "elastane"],
+    "materialsNote": "Reflects materials typical of Outfitters' Western-casual product categories based on public product listings, not a full per-SKU composition audit.",
+    "sustainableMaterials": [],
+    "certifications": [],
+    "sustainabilityClaims": [],
+    "initiatives": [],
+    "website": "https://outfitters.com.pk",
+    "sources": [
+      { "title": "Profit by Pakistan Today — Outfitters profile", "url": "https://profit.pakistantoday.com.pk/2017/01/23/outfittershow-a-mold-breaking-business-model-caved-in-to-pakistani-patriarchy" }
+    ],
+    "lastUpdated": "2026-09-23"
+  },
+  {
+    "id": "limelight",
+    "name": "Limelight",
+    "origin": "local",
+    "country": "Pakistan",
+    "founded": "Not independently verified",
+    "headquarters": "Pakistan",
+    "description": "A large women's fashion retail chain with 70+ stores across Pakistan, known for affordable semi-formal pret and unstitched lawn collections in both Western and Eastern styles.",
+    "categories": ["Women's", "Unstitched", "Pret", "Casual Wear"],
+    "materials": ["conventional-cotton", "poly-cotton-blend", "viscose"],
+    "materialsNote": "Reflects materials typical of Limelight's product categories based on public product listings, not a full per-SKU composition audit.",
+    "sustainableMaterials": [],
+    "certifications": [],
+    "sustainabilityClaims": [],
+    "initiatives": [],
+    "website": "https://limelight.pk",
+    "sources": [
+      { "title": "ProPakistani — Top clothing brands roundup", "url": "https://propakistani.pk/how-to/top-13-clothing-brands-in-pakistan/" }
+    ],
+    "lastUpdated": "2026-09-23"
+  },
+  {
+    "id": "hm",
+    "name": "H&M",
+    "origin": "international",
+    "country": "Sweden",
+    "founded": "1947",
+    "headquarters": "Stockholm, Sweden",
+    "description": "A Swedish fast-fashion retailer with a large presence in Pakistan's online and cross-border shopping market. H&M runs a long-standing 'Conscious Choice' labelling scheme highlighting garments made with a higher share of recycled or organically grown materials, alongside its much larger conventional collections.",
+    "categories": ["Women's", "Men's", "Kids", "Casual Wear", "Denim"],
+    "materials": ["conventional-cotton", "organic-cotton", "polyester", "recycled-polyester", "lyocell", "viscose"],
+    "materialsNote": "Conventional cotton, polyester and viscose dominate H&M's mainline collections; organic cotton, recycled polyester and lyocell (branded TENCEL) appear specifically in Conscious Choice-labelled garments, per public reporting on the initiative.",
+    "sustainableMaterials": ["organic-cotton", "recycled-polyester", "lyocell"],
+    "certifications": [],
+    "sustainabilityClaims": [
+      { "claim": "Conscious Choice-labelled garments must contain at least 50% more sustainable materials such as organic cotton or recycled polyester.", "source": "https://blog.nus.edu.sg/bigbadbrands/?p=88", "type": "brand-claim" },
+      { "claim": "Reported as one of the world's largest buyers of organic cotton and users of recycled polyester by volume.", "source": "https://apparelresources.com/?p=154602", "type": "brand-claim" },
+      { "claim": "As of a 2015 sustainability report, roughly 31% of total cotton used was certified organic, Better Cotton (BCI), or recycled.", "source": "https://d3.harvard.edu/platform-rctom/submission/hm-making-fashion-sustainable-and-sustainability-fashionable/index.html", "type": "documented" }
+    ],
+    "initiatives": [
+      { "name": "In-store garment collecting for reuse and recycling", "source": "https://d3.harvard.edu/platform-rctom/submission/hm-making-fashion-sustainable-and-sustainability-fashionable/index.html", "type": "documented" }
+    ],
+    "website": "https://www2.hm.com",
+    "sources": [
+      { "title": "H&M sustainability strategy overview", "url": "https://d3.harvard.edu/platform-rctom/submission/hm-making-fashion-sustainable-and-sustainability-fashionable/index.html" },
+      { "title": "Apparel Resources — Conscious Exclusive Collection", "url": "https://apparelresources.com/?p=154602" }
+    ],
+    "lastUpdated": "2026-09-23"
+  },
+  {
+    "id": "zara",
+    "name": "Zara",
+    "origin": "international",
+    "country": "Spain",
+    "founded": "1975",
+    "headquarters": "Arteixo, Spain",
+    "description": "A Spanish fast-fashion brand owned by Inditex, widely shopped by Pakistani consumers online and through regional stores. Zara labels a subset of its range 'Join Life' when it is made with a higher share of organic cotton, recycled materials or lyocell (TENCEL).",
+    "categories": ["Women's", "Men's", "Kids", "Casual Wear", "Formal Wear"],
+    "materials": ["conventional-cotton", "organic-cotton", "polyester", "recycled-polyester", "lyocell", "wool", "recycled-wool"],
+    "materialsNote": "Conventional cotton and polyester dominate Zara's mainline collections; organic cotton, recycled polyester, recycled wool and lyocell (TENCEL) appear specifically in Join Life-labelled garments, per public reporting on the initiative.",
+    "sustainableMaterials": ["organic-cotton", "recycled-polyester", "lyocell", "recycled-wool"],
+    "certifications": [],
+    "sustainabilityClaims": [
+      { "claim": "Join Life garments are made using organic cotton, recycled wool, recycled polyester and Tencel lyocell.", "source": "https://fashionunited.uk/news/fashion/zara-goes-sustainable-with-new-join-life-initiative/2016092021831", "type": "brand-claim" },
+      { "claim": "Parent company Inditex has stated a goal for all Zara collections to use 100% more sustainable materials before 2025.", "source": "https://fashionmodeldirectory.com/news/Business/zara-launches-a-new-join-life-collection.htm", "type": "brand-claim" }
+    ],
+    "initiatives": [
+      { "name": "In-store garment collection boxes for donation and recycling", "source": "https://fashionunited.uk/news/fashion/zara-goes-sustainable-with-new-join-life-initiative/2016092021831", "type": "documented" }
+    ],
+    "website": "https://www.zara.com",
+    "sources": [
+      { "title": "FashionUnited — Zara Join Life initiative", "url": "https://fashionunited.uk/news/fashion/zara-goes-sustainable-with-new-join-life-initiative/2016092021831" },
+      { "title": "Circle Economy — Zara Join Life case study", "url": "https://circle-economy.prod.circularity-gap.world/knowledge-hub/article/28952" }
+    ],
+    "lastUpdated": "2026-09-23"
+  },
+  {
+    "id": "nike",
+    "name": "Nike",
+    "origin": "international",
+    "country": "United States",
+    "founded": "1964",
+    "headquarters": "Beaverton, Oregon, USA",
+    "description": "A US sportswear brand widely worn in Pakistan (largely through resellers and cross-border shopping, with limited official retail presence). Nike's 'Move to Zero' apparel line combines recycled polyester with organic and recycled cotton, alongside its much larger conventional product range.",
+    "categories": ["Men's", "Women's", "Kids", "Activewear", "Footwear"],
+    "materials": ["conventional-cotton", "organic-cotton", "polyester", "recycled-polyester"],
+    "materialsNote": "Move to Zero apparel pieces (jackets, hoodies, tees) documented on Nike's own product pages use a blend of recycled polyester with organic and/or recycled cotton, typically at least 60% by the brand's own figures; Nike's much larger mainline range uses conventional cotton and virgin polyester.",
+    "sustainableMaterials": ["organic-cotton", "recycled-polyester"],
+    "certifications": [],
+    "sustainabilityClaims": [
+      { "claim": "Move to Zero pieces combine recycled polyester with organic cotton to reduce water, chemical and carbon inputs versus virgin material blends.", "source": "https://www.nike.com/ph/t/acg-dri-fit-t-shirt-BmhnJg", "type": "documented" },
+      { "claim": "Recycled polyester is stated to cut carbon emissions by roughly 30% compared to virgin polyester.", "source": "https://www.nike.com/ph/t/acg-dri-fit-t-shirt-BmhnJg", "type": "brand-claim" }
+    ],
+    "initiatives": [
+      { "name": "Move to Zero — company-wide zero-carbon, zero-waste initiative", "source": "https://hnworth.com/article/spend/style/nike-embraces-sustainability-with-move-to-zero-clothing-line/", "type": "documented" }
+    ],
+    "website": "https://www.nike.com",
+    "sources": [
+      { "title": "Nike product page — Move to Zero material description", "url": "https://www.nike.com/ph/t/acg-dri-fit-t-shirt-BmhnJg" },
+      { "title": "Nike Move to Zero apparel collection announcement", "url": "https://hnworth.com/article/spend/style/nike-embraces-sustainability-with-move-to-zero-clothing-line/" }
+    ],
+    "lastUpdated": "2026-09-23"
+  },
+  {
+    "id": "levis",
+    "name": "Levi's",
+    "origin": "international",
+    "country": "United States",
+    "founded": "1853",
+    "headquarters": "San Francisco, USA",
+    "description": "The originator of riveted blue jeans, widely available in Pakistan through resellers and regional retail. Levi's documents specific water-reduction manufacturing techniques (Water<Less) and cotton-sourcing programmes alongside its core denim range.",
+    "categories": ["Men's", "Women's", "Denim", "Casual Wear"],
+    "materials": ["conventional-cotton", "organic-cotton", "recycled-cotton", "elastane"],
+    "materialsNote": "Cotton makes up roughly 90% of Levi's total raw material by the company's own 2024 figures; a documented share of that cotton comes from Better Cotton Initiative growers, organic farms or recycled cotton suppliers, alongside conventional cotton across the core range. Stretch denim lines use a small elastane content.",
+    "sustainableMaterials": ["organic-cotton", "recycled-cotton"],
+    "certifications": [],
+    "sustainabilityClaims": [
+      { "claim": "67% of cotton is sourced from Better Cotton Initiative growers, organic cotton farms or recycled cotton suppliers.", "source": "https://www.csulb.edu/sites/default/files/document/10_indicators_poster.pdf", "type": "documented" },
+      { "claim": "67% of products are made using Water<Less finishing techniques, aimed at reducing water use in denim finishing.", "source": "https://www.csulb.edu/sites/default/files/document/10_indicators_poster.pdf", "type": "brand-claim" }
+    ],
+    "initiatives": [
+      { "name": "Water<Less finishing techniques for denim manufacturing", "source": "https://fr.fashionnetwork.com/news/levi-s-rend-accessibles-ses-techniques-de-reduction-de-la-consommation-d-eau,673970.html", "type": "documented" },
+      { "name": "Waste<Less denim collection using recycled post-consumer plastic bottles", "source": "https://www.levistrauss.com/wp-content/uploads/2019/03/8-Bottles-1-Jean-The-Levis-Brand-Introduces-Waste-.pdf", "type": "documented" }
+    ],
+    "website": "https://www.levi.com",
+    "sources": [
+      { "title": "CSULB — Levi's sustainability indicators summary", "url": "https://www.csulb.edu/sites/default/files/document/10_indicators_poster.pdf" },
+      { "title": "Levi Strauss & Co. — Waste<Less denim collection announcement", "url": "https://www.levistrauss.com/wp-content/uploads/2019/03/8-Bottles-1-Jean-The-Levis-Brand-Introduces-Waste-.pdf" }
+    ],
+    "lastUpdated": "2026-09-23"
+  }
+]

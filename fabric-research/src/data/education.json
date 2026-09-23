@@ -1,0 +1,239 @@
+{
+  "sixRules": {
+    "intro": "Every score in this guide assumes you follow these first. None of the materials on the scorecard can rescue a garment you wear five times and throw away.",
+    "rules": [
+      {
+        "title": "Wear it thirty times, at least",
+        "text": "Impact is counted per wear, not per garment. This one habit outweighs every fibre choice in this guide."
+      },
+      {
+        "title": "Buy one fibre, never a blend",
+        "text": "Pure cotton and pure polyester can each be recycled. Poly-cotton cannot be separated. Some stretch clothes really do need elastane, but most shirts and jeans do not."
+      },
+      {
+        "title": "Buy secondhand first",
+        "text": "A used garment carries zero new production impact. It is the largest saving available to you, and it costs less."
+      },
+      {
+        "title": "Wash cold, full loads, air dry",
+        "text": "Most of a garment's lifetime energy is spent after you buy it, not before."
+      },
+      {
+        "title": "Repair before you replace",
+        "text": "A re-stitched hem, a new zip, a resoled shoe. Each one buys years for a fraction of the price."
+      },
+      {
+        "title": "Read the fibre tag, not the ad",
+        "text": "\"Eco\", \"natural\", \"bamboo\" and \"vegan\" are marketing words. The composition label is what actually tells you what you're buying."
+      }
+    ],
+    "wearStats": [
+      {
+        "wears": "5 times",
+        "value": "1x",
+        "note": "The entire cost of making a garment is carried by five wearings. This is the fast-fashion default."
+      },
+      {
+        "wears": "30 times",
+        "value": "6x less impact",
+        "note": "Impact per wear drops sharply every time you put the same garment on again, simply by keeping it longer."
+      },
+      {
+        "wears": "200 times",
+        "value": "40x less impact",
+        "note": "Nothing you can change about the fibre itself comes anywhere close to the effect of wearing a garment out fully."
+      }
+    ],
+    "scoreAxes": [
+      {
+        "name": "Water",
+        "note": "Irrigation and process water"
+      },
+      {
+        "name": "Land",
+        "note": "Yield, pesticide, soil health"
+      },
+      {
+        "name": "Chemistry",
+        "note": "Solvents and mill discharge"
+      },
+      {
+        "name": "Carbon",
+        "note": "Feedstock through to dyeing"
+      },
+      {
+        "name": "Lifespan",
+        "note": "Wears the fibre delivers"
+      },
+      {
+        "name": "Shedding",
+        "note": "Microfibre per wash"
+      },
+      {
+        "name": "End of life",
+        "note": "Biodegrades or never"
+      }
+    ],
+    "footnote": "No fibre is perfect and none is beyond saving. A 9.5 bought carelessly and worn twice still beats nothing, and a 2.0 you already own and wear for a decade is not a failure. Garments sold at retail are generally required to declare fibre composition, so if a seller won't tell you the mix, that itself is a signal."
+  },
+  "scoreBands": [
+    {
+      "range": "8.0\u201310",
+      "label": "Buy freely",
+      "color": "#2f6b4f"
+    },
+    {
+      "range": "6.0\u20137.9",
+      "label": "Certify it",
+      "color": "#3f7ea8"
+    },
+    {
+      "range": "4.0\u20135.9",
+      "label": "Keep it long",
+      "color": "#b8912e"
+    },
+    {
+      "range": "2.0\u20133.9",
+      "label": "Rarely",
+      "color": "#c1622f"
+    },
+    {
+      "range": "0\u20131.9",
+      "label": "Only if forced",
+      "color": "#9c2b2b"
+    }
+  ],
+  "microplastics": {
+    "intro": "Plastic microfibre is far too small for any household or municipal filter to catch. Once it leaves your wash water it is gone for good, so reducing it at the source is the only lever that exists.",
+    "worse": [
+      "Fleece, brushed and fluffy surfaces \u2014 loose fibre ends are what break off; smooth, tightly woven synthetics shed far less",
+      "Hot water and long wash cycles \u2014 heat and agitation time both raise fibre loss",
+      "Half-empty wash drums \u2014 less fabric means more free movement and more abrasion per garment",
+      "The first few washes of a new synthetic garment \u2014 it sheds most when new",
+      "Tumble drying \u2014 sheds fibre a second time, into the air, on top of the energy it burns"
+    ],
+    "better": [
+      "Wash synthetics less often \u2014 air them out instead",
+      "Cold water, short cycle, full load",
+      "Air dry rather than tumble dry",
+      "A filter bag or drum filter for synthetics you already own, catching a meaningful share",
+      "Buy fewer new synthetics where you genuinely have a choice \u2014 nothing else here has as much effect"
+    ],
+    "journey": [
+      {
+        "step": "The wash",
+        "text": "Abrasion in the drum breaks loose fibre ends off the fabric surface."
+      },
+      {
+        "step": "The drain",
+        "text": "Fibres leave with the greywater. No household filter catches them."
+      },
+      {
+        "step": "The river",
+        "text": "Wastewater treatment removes some. What passes through reaches open water."
+      },
+      {
+        "step": "The food chain",
+        "text": "Fish, salt and drinking water all carry measurable microplastic."
+      },
+      {
+        "step": "Back to you",
+        "text": "Microplastic has been found in human blood, lungs and placenta. It does not leave the body."
+      }
+    ],
+    "stats": [
+      {
+        "value": "700k",
+        "label": "Microfibres released by a single six-kilo acrylic wash load in lab testing."
+      },
+      {
+        "value": "273x",
+        "label": "The warming potency of nitrous oxide released during nylon production, compared to CO2."
+      }
+    ]
+  },
+  "buyingGuidance": {
+    "beforeYouBuy": [
+      "Check the fibre composition tag before you look at the price",
+      "Prefer durable, single-fibre materials where practical",
+      "Consider how often you will actually wear the garment",
+      "Avoid unnecessary blends when you have a choice",
+      "Consider secondhand options first"
+    ],
+    "tagCheck": [
+      "Find the composition tag before you look at the price",
+      "One fibre if you can \u2014 two or more usually means it can never be recycled",
+      "Elastane is fine in socks and activewear, which need the stretch; worth skipping in shirts, denim and bedsheets, which don't",
+      "Acrylic and wool are not the same word \u2014 check which one the label actually says",
+      "Ask about certification if you're paying an organic or recycled premium",
+      "Then ask the real question: will I wear this thirty times?"
+    ],
+    "endOfLife": [
+      {
+        "title": "Repair",
+        "text": "A hem, a zip, a seam or a sole costs a fraction of replacement and buys years."
+      },
+      {
+        "title": "Pass on",
+        "text": "Family, friends, a resale platform. Someone else's wear counts too."
+      },
+      {
+        "title": "Repurpose",
+        "text": "Cotton becomes cleaning cloth, patchwork or quilt filling."
+      },
+      {
+        "title": "Recycle last",
+        "text": "Single-fibre garments only \u2014 which is exactly why buying one fibre at a time matters."
+      }
+    ],
+    "wordsThatMeanNothing": [
+      {
+        "term": "Bamboo",
+        "meaning": "Almost always viscose. The word names the raw material, not the process that actually determined its footprint."
+      },
+      {
+        "term": "Vegan leather",
+        "meaning": "Usually PVC or PU. \"Vegan\" is an animal-welfare claim, not an environmental one."
+      },
+      {
+        "term": "Eco, green, conscious",
+        "meaning": "Unregulated marketing words with no standard, audit or fixed meaning behind them."
+      },
+      {
+        "term": "Natural fibre",
+        "meaning": "Viscose and modal both start as plants. The phrase says nothing about the chemistry or water used to process them."
+      },
+      {
+        "term": "100% pure",
+        "meaning": "Pure what? A composition percentage is the only statement that actually binds a seller."
+      }
+    ],
+    "marksThatMeanSomething": [
+      {
+        "mark": "GOTS",
+        "meaning": "Global Organic Textile Standard \u2014 the most widely recognised organic claim, covering the farm and every processing step after it."
+      },
+      {
+        "mark": "Woolmark",
+        "meaning": "Plain Woolmark means all-new wool. Woolmark Blend and Wool Blend mean progressively less of it."
+      },
+      {
+        "mark": "GRS",
+        "meaning": "Global Recycled Standard \u2014 verifies recycled-content claims, including recycled polyester, and always names a certifying body."
+      }
+    ]
+  },
+  "ifYouChangeOneThing": "Choose single-fibre garments where you reasonably can, and don't throw out synthetic clothing you already own just to replace it. Replacing a working polyester shirt with a new cotton one makes things worse, not better \u2014 wear it out first.",
+  "sourcesAndMethod": "Fabric scores and descriptions are adapted from The Fabric Scorecard, a public guide summarising published life-cycle assessment literature on textile fibres (comparative LCAs of cotton, polyester, viscose and lyocell; microfibre shedding studies; and textile industry fibre data). Brand information is compiled from official brand websites and public reporting where available, and is clearly marked where it reflects a brand's own claim rather than independent verification.",
+  "fastFashion": {
+    "intro": "Fast fashion is not a single company or fibre \u2014 it is a pattern: trend cycles that turn over quickly, prices low enough to encourage buying more than needed, and garments that get worn only a handful of times before being replaced rather than repaired.",
+    "points": [
+      "Rapidly changing trends encourage frequent purchases rather than long-term use.",
+      "Low-cost mass production makes replacing a garment cheaper, in the moment, than repairing it.",
+      "Garments worn only a few times carry the same production footprint as one worn for years \u2014 the difference is entirely in how long it stays in use.",
+      "Synthetic fibres add a second cost at the washing stage: shedding microplastic fibres that wastewater treatment cannot fully catch.",
+      "Disposal culture \u2014 treating clothing as short-lived rather than durable \u2014 shifts the problem to landfill and informal waste streams rather than solving it."
+    ],
+    "note": "This section reflects the wear-multiplier data and the six rules from the source scorecard rather than external fast-fashion statistics, to avoid citing figures that could not be verified for this project."
+  }
+}
